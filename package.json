@@ -1,0 +1,15 @@
+{
+  "name": "wvnder",
+  "version": "1.0.0",
+  "description": "wvnder is a OLC Bundle for RanvierMUD. It works as a standalone bundle, and should work with any project right out of the box.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NamelessFaceless/Wvnder.git"
+  },
+  "author": "Henrique Cezar Godoy Bueno <theholl0wstar@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NamelessFaceless/Wvnder/issues"
+  },
+  "homepage": "https://github.com/NamelessFaceless/Wvnder#readme"
+}
